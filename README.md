@@ -1,6 +1,10 @@
 # typescript-practice
 
-Following a tutorial here:
-https://blog.logrocket.com/using-typescript-with-react-tutorial-examples/#what-is-react
+## Usage
 
-left off on March 6 at "Using TypeScript interfaces with React components"
+use `npm run magic` to compile typescript.
+
+view `index.html` to see app.
+
+This repo started with this tutorial:
+https://blog.logrocket.com/using-typescript-with-react-tutorial-examples/#what-is-react
